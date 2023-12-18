@@ -1,0 +1,59 @@
+Persona 1: System Administrator - Alex Rodriguez
+
+Background:
+
+Role: System Administrator
+Age: 32
+
+Background: Alex has a strong IT background with expertise in systems administration. 
+He is responsible for managing and configuring the organization's PAM solution.
+
+Goals: Configure and maintain PAM solutions to ensure security and compliance.
+Define and enforce access policies to protect privileged credentials.
+Monitor and respond to security incidents related to privileged access.
+
+Challenges: Balancing the need for strong security with user convenience.
+Staying updated on evolving cybersecurity threats and PAM best practices.
+Collaborating with other IT teams to integrate PAM into existing systems.
+
+Technology Usage:
+Proficient in using PAM tools for privileged account management.
+Familiar with security information and event management (SIEM) systems.
+Regularly conducts security assessments and audits for privileged accounts.
+
+Needs from the IT System:
+Robust PAM tools with features for access control and session monitoring.
+Integration with existing IT infrastructure for seamless operation.
+Regular training and resources to stay updated on the latest PAM technologies and methodologies.
+
+----------------------------------------------------------------------------------------------------
+
+Persona 2: Security Analyst - Maya Patel
+
+Background:
+
+Role: Security Analyst
+Age: 28
+
+Background: Maya has a background in cybersecurity and works as a security analyst. 
+She is responsible for monitoring and responding to security incidents, with a focus on privileged access.
+
+Goals:
+Monitor and analyze security events related to privileged access.
+Investigate and respond to incidents involving potential misuse of privileged credentials.
+Collaborate with other security and IT teams to enhance overall cybersecurity posture.
+
+Challenges:
+Identifying and responding to sophisticated cyber threats in real-time.
+Balancing proactive threat hunting with reactive incident response.
+Ensuring that security measures do not hinder operational efficiency.
+
+Technology Usage:
+Utilizes security information and event management (SIEM) systems.
+Proficient in incident response tools for rapid threat containment.
+Regularly conducts penetration testing to identify vulnerabilities.
+
+Needs from the IT System:
+Access to real-time alerts and reports on privileged access events.
+Integration with threat intelligence feeds for proactive threat detection.
+Ongoing training and professional development opportunities in cybersecurity.
